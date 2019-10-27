@@ -1,0 +1,3 @@
+Class Hero do
+
+end
